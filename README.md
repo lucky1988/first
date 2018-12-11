@@ -1,2 +1,2 @@
 # Proglib
-Hello, readme please
+Привет, люди!
